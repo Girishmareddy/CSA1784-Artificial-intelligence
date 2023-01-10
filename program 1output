@@ -1,9 +1,0 @@
-Please select the operation.
- Add
- Subtract
- Multiply
- Divide
-Please enter choice (Add/Subtract/Multiply/Divide): Add
-Please enter the first number: 1
-Please enter the second number: 54
-1  +  54  =  55
